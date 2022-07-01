@@ -1,0 +1,4 @@
+test*
+sample/
+*.o
+sfml-app
